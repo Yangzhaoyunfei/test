@@ -6,7 +6,7 @@ xx说生活不容易，买个碗要饭去
 ## 2号提交内容
 xx 使用如下命令来完成一次变更的提交并推送，
 ```bash
-git add . && git commit -m '变更摘要' && git pull && git push
+git add . && git commit -m '本次做了。。。等修改' && git pull && git push
 ```
 
 ## 3号提交内容
